@@ -1,0 +1,15 @@
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Application/bin/Debug/net6.0/Razor.Pharmacy.Application.deps.json
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Application/bin/Debug/net6.0/Razor.Pharmacy.Application.dll
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Application/bin/Debug/net6.0/Razor.Pharmacy.Application.pdb
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Application/obj/Debug/net6.0/Razor.Pharmacy.Application.csproj.AssemblyReference.cache
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Application/obj/Debug/net6.0/Razor.Pharmacy.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Application/obj/Debug/net6.0/Razor.Pharmacy.Application.AssemblyInfoInputs.cache
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Application/obj/Debug/net6.0/Razor.Pharmacy.Application.AssemblyInfo.cs
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Application/obj/Debug/net6.0/Razor.Pharmacy.Application.csproj.CoreCompileInputs.cache
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Application/obj/Debug/net6.0/Razor.Pharmacy.Application.dll
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Application/obj/Debug/net6.0/refint/Razor.Pharmacy.Application.dll
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Application/obj/Debug/net6.0/Razor.Pharmacy.Application.pdb
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Application/obj/Debug/net6.0/ref/Razor.Pharmacy.Application.dll
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Application/bin/Debug/net6.0/Razor.Pharmacy.Domain.dll
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Application/bin/Debug/net6.0/Razor.Pharmacy.Domain.pdb
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Application/obj/Debug/net6.0/Razor.Pharmacy.Application.csproj.CopyComplete

@@ -1,0 +1,17 @@
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Infrastructure/bin/Debug/net6.0/Razor.Pharmacy.Infrastructure.deps.json
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Infrastructure/bin/Debug/net6.0/Razor.Pharmacy.Infrastructure.dll
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Infrastructure/bin/Debug/net6.0/Razor.Pharmacy.Infrastructure.pdb
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Infrastructure/obj/Debug/net6.0/Razor.Pharmacy.Infrastructure.csproj.AssemblyReference.cache
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Infrastructure/obj/Debug/net6.0/Razor.Pharmacy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Infrastructure/obj/Debug/net6.0/Razor.Pharmacy.Infrastructure.AssemblyInfoInputs.cache
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Infrastructure/obj/Debug/net6.0/Razor.Pharmacy.Infrastructure.AssemblyInfo.cs
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Infrastructure/obj/Debug/net6.0/Razor.Pharmacy.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Infrastructure/obj/Debug/net6.0/Razor.Pharmacy.Infrastructure.dll
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Infrastructure/obj/Debug/net6.0/refint/Razor.Pharmacy.Infrastructure.dll
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Infrastructure/obj/Debug/net6.0/Razor.Pharmacy.Infrastructure.pdb
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Infrastructure/obj/Debug/net6.0/ref/Razor.Pharmacy.Infrastructure.dll
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Infrastructure/bin/Debug/net6.0/Razor.Pharmacy.Application.dll
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Infrastructure/bin/Debug/net6.0/Razor.Pharmacy.Domain.dll
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Infrastructure/bin/Debug/net6.0/Razor.Pharmacy.Application.pdb
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Infrastructure/bin/Debug/net6.0/Razor.Pharmacy.Domain.pdb
+/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Infrastructure/obj/Debug/net6.0/Razor.Pharmacy.Infrastructure.csproj.CopyComplete

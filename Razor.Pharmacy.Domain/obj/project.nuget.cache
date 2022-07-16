@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5MjMlkgf+0ZrUIphlZ/x+IMJMIIPqaXsBujb/Yh8dWmLadkSkulmyvwdRbFBcXkIiJj5UdvGS3Fa432zlAk5RA==",
+  "success": true,
+  "projectFilePath": "/Users/mh/workspaceCSharp/razor-pharmacy/Razor.Pharmacy.Domain/Razor.Pharmacy.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/mh/.nuget/packages/fluentvalidation/11.1.0/fluentvalidation.11.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
